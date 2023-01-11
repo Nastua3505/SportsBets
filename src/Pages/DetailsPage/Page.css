@@ -1,0 +1,37 @@
+.play-bets {
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: rgb(252, 252, 252);
+}
+.done-bets {
+  justify-content: center;
+  font-size: 30px;
+  padding: 30px;
+  display: flex;
+  color: rgb(252, 252, 252);
+  background: #ffffff;
+  box-shadow: 1px 1px 7px rgba(89, 87, 87, 0.2);
+  border-radius: 5px;
+  margin: 15px;
+  color: #060606;
+  text-decoration: none;
+}
+.results-bets {
+  font-size: 15px;
+  padding: 30px;
+  display: flex;
+  word-wrap: break-word;
+  color: rgb(252, 252, 252);
+  background: #ffffff;
+  box-shadow: 1px 1px 7px rgba(89, 87, 87, 0.2);
+  border-radius: 5px;
+  margin: 15px;
+  color: #060606;
+  text-decoration: none;
+}
+.button {
+  size: 40px;
+  font-size: 20px;
+  color: rgb(252, 252, 252);
+}

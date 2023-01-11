@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Rubik+Bubbles&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background-color: #ded5d5;
+}
+
+.app-header {
+  display: flex;
+  background-color: #f7f3f3;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding: 20px;
+}
+
+.header-description {
+  color: #0b0909;
+  font-family: "cursive", sans-serif;
+  font-size: 30px;
+  font-weight: 200;
+}
+h1.header-logo {
+  font-family: "Mr Dafoe", cursive;
+  font-size: 60px;
+}
+.link {
+  color: #161515cc;
+  font-family: "Mr Dafoe", cursive;
+  font-size: 15px;
+  font-weight: 100;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.header-link:hover {
+  cursor: pointer;
+  background-color: #b8b2b7;
+}
+
+.title {
+  font-weight: 10;
+  width: 100%;
+  text-align: center;
+  margin: 30px 0 40px 0;
+  font-size: 40px;
+}

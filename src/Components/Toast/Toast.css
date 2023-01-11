@@ -1,0 +1,13 @@
+.container-play {
+  font-size: 15px;
+  padding: 30px;
+  display: flex;
+  word-wrap: break-word;
+  color: rgb(21, 20, 20);
+  background: #ffffff;
+  box-shadow: 1px 1px 7px rgba(89, 87, 87, 0.2);
+  border-radius: 5px;
+  margin: 15px;
+  color: #060606;
+  text-decoration: none;
+}
